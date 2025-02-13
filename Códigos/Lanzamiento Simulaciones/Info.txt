@@ -1,0 +1,5 @@
+Este código ejecuta las simulaciones en tu computador. Para esto se debe tener instalado LSDyna. Algunas consideraciones a tener en cuenta son
+- Se debe ajustar la ruta de los archivos correspondientes a LSDyna para la correcta ejecución.
+- Se debe ajustar el numero de nucleos a usar por simulacion dependiendo de su computador.
+- Este código ejecuta automaticamente las simulaciones dentro de las subcarpetas creadas. solo se debe seleccionar la carpeta que contiene las subcarpetas.
+- Se debe considerar que cada simulación puede ocupar 700 mb de espacio o más dependiendo de la cantidad de archivos de salida.
