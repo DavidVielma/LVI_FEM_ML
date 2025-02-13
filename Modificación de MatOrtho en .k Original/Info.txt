@@ -1,0 +1,8 @@
+El código presente en esta carpeta sirve para modificar la sección de MatOrtho en el código del archivo .k Original para parametrizarlo, las intrucciones de uso son las siguientes.
+- Modificar en LSDyna todos los elementos del composite con un ángulo, esto para que todos los elementos del composite se conviertane en MatOrtho, y luego guardar el archvivo .k Original
+- Ingresar con edito de texto a archiv .k original y extraer solo las lineas de MatOrtho del archivo .k.
+- Guardar archivo de solo lineas MatOrtho como nuevo archivo.k
+- Correr código de carpeta. (Este código modifica y parametriza con variables las lineas de matOrtho)
+- Copiar lineas modificadas en archivo .k original.
+- Ya se tiene parametrizado el archivo .k para el tema de los ángulos.
+** Para generar totalmente la parametrización, hace falta modificar la velocidad del impatcador en VelGeneration. y los materiales de las PARTS dentro del código.
