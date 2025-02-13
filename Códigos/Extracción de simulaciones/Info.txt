@@ -1,0 +1,4 @@
+En esta carpeta se encuentran tres códigos:
+- Uno que sirve para hacer la extracción individual de archivos d3plot. Extraccion_d3plot_individual.py
+- El siguiente que se denomina: ExtraccionSimulaciones.py sirve para realizar la extracción de todas las subcarpetas creadas unificando la información en un archivo csv, el cual extrae todas las variables históricas (de la 1 a la 5) del último paso de tiempo generado.
+- El siguiente: ExtraccionSimulacionesMejorado.py sirve para extraer de todas las carpetas, la información por elemento es decir son 120.000 columnas, cada columna representa un elemento del composite, y las filas indicán si el elemeto se encuentra dañado o no, extrae 5 csv. cada uno para cada variable histórica.
