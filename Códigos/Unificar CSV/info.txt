@@ -1,0 +1,1 @@
+Este código sirve para unificar distintos tipos de archivos csv, unificando sus filas, funciona siempre y cuando los csv tengan el mismo encabezado. 
